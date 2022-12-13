@@ -13,7 +13,7 @@ bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release
 2. Download configuration
 
 ```
-curl -Lo /usr/local/etc/xray/config.json https://raw.githubusercontent.com/seakfind/examples/main/VLESS-TCP-XTLS-Vision/config_server.json
+curl -Lo /usr/local/etc/xray/config.json https://raw.githubusercontent.com/NimaEagle/examples/main/VLESS-TCP-XTLS-Vision/config_server.json
 ```
 
 3. Obtain SSL certificate and private key
